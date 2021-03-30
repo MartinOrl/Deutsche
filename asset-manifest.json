@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MartinOrl/Deutsche/static/css/main.92213f9f.chunk.css",
+    "main.js": "/MartinOrl/Deutsche/static/js/main.07cabb1b.chunk.js",
+    "main.js.map": "/MartinOrl/Deutsche/static/js/main.07cabb1b.chunk.js.map",
+    "runtime-main.js": "/MartinOrl/Deutsche/static/js/runtime-main.984fad23.js",
+    "runtime-main.js.map": "/MartinOrl/Deutsche/static/js/runtime-main.984fad23.js.map",
+    "static/js/2.ac2ca0ab.chunk.js": "/MartinOrl/Deutsche/static/js/2.ac2ca0ab.chunk.js",
+    "static/js/2.ac2ca0ab.chunk.js.map": "/MartinOrl/Deutsche/static/js/2.ac2ca0ab.chunk.js.map",
+    "index.html": "/MartinOrl/Deutsche/index.html",
+    "static/css/main.92213f9f.chunk.css.map": "/MartinOrl/Deutsche/static/css/main.92213f9f.chunk.css.map",
+    "static/js/2.ac2ca0ab.chunk.js.LICENSE.txt": "/MartinOrl/Deutsche/static/js/2.ac2ca0ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984fad23.js",
+    "static/js/2.ac2ca0ab.chunk.js",
+    "static/css/main.92213f9f.chunk.css",
+    "static/js/main.07cabb1b.chunk.js"
+  ]
+}
