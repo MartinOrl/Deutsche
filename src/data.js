@@ -420,7 +420,7 @@ const slova = [
         "der Neger", "podradený biely človek"
     ],
     [
-        "der Nigga", "homie"
+        "der Nigga", "homie, CJ"
     ]
     
 ]
